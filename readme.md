@@ -1,4 +1,8 @@
-#*---------- JAVASCRIPT QUESTIONS-----------*
+#---------- JAVASCRIPT QUESTIONS-----------#
 
-QUE-1  
+1)QUE-1  
 Hoisting
+----------------------
+
+QUE-2
+
