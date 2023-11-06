@@ -10,4 +10,4 @@ for(let i; i<4; i++)
         console.log(i)
     },2000)
 }
-console.log("HII")
+console.log("HII");
