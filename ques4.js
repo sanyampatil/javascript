@@ -1,0 +1,6 @@
+console.log(+true)
+console.log(+false)
+console.log(!"javascrpt")
+console.log(!23)
+console.log(-false)
+console.log(-true)
