@@ -10,5 +10,6 @@ const myTwo={
 }
 
 // myOne[myone.gav]
- myOne.name.myname
+ // myOne.name.myname
+ 
  console.log(myOne.name)
